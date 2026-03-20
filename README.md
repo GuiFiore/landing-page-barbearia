@@ -18,18 +18,4 @@ Landing page profissional desenvolvida para barbearia premium.
 - 100% responsivo para mobile
 
 ## 📸 Preview
-![Preview](preview.png) ← (opcional, adicione um print depois)
-```
-
----
-
-## 🚀 Passo 4 — Publicar na Vercel
-
-1. Acesse [vercel.com](https://vercel.com) e clique em **Sign Up with GitHub**
-2. Autorize o acesso
-3. Clique em **Add New → Project**
-4. Selecione o repositório `landing-page-barbearia`
-5. Não mude nada nas configurações — clique direto em **Deploy**
-6. Em menos de 1 minuto seu site estará no ar com um link tipo:
-```
-   https://landing-page-barbearia.vercel.app
+![Preview](preview.png)
