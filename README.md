@@ -18,4 +18,4 @@ Landing page profissional desenvolvida para barbearia premium.
 - 100% responsivo para mobile
 
 ## 📸 Preview
-![Preview](preview.png)
+![Preview](imagem_2026-03-20_035235377.png)
